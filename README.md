@@ -10,3 +10,4 @@
 ![20-Remix-Deploy](https://github.com/1monalisa1/20-Solidity/blob/12071e23029c770cccb1a50b0d2a81977f29f659/Images/20-Remix-Deploy.png)
 ![20-Metamask](https://github.com/1monalisa1/20-Solidity/blob/12071e23029c770cccb1a50b0d2a81977f29f659/Images/20-Metamask-Confirm.png)
 ![20-Remix-Deposit](https://github.com/1monalisa1/20-Solidity/blob/12071e23029c770cccb1a50b0d2a81977f29f659/Images/20-Remix-Deposit.png)
+![20-Ganache](https://github.com/1monalisa1/20-Solidity/blob/12071e23029c770cccb1a50b0d2a81977f29f659/Images/20-Ganache.png)
